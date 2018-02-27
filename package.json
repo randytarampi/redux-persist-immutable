@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "redux-persist": "^4.0.0",
-    "redux-persist-transform-immutable": "^5.0.0"
+    "redux-persist-transform-immutable": "aghoneim92/redux-persist-transform-immutable#upgrade-remotedev-serialize"
   },
   "peerDependencies": {
     "immutable": "*"
