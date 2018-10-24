@@ -1,6 +1,9 @@
 {
-  "name": "redux-persist-immutable",
+  "name": "@randy.tarampi/redux-persist-immutable",
   "version": "4.3.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "top level immutablejs support for redux-persist",
   "main": "lib/index.js",
   "files": [
